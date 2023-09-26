@@ -28,7 +28,7 @@ Here's a numbered list:
 
 1.  first item
 2.  second item
-3.  MBSD{anyplace-tannery-spoiled}
+3.  MBSD{anyplacetanneryspoiled}
 
 Note again how the actual text starts at 4 columns in (4 characters
 from the left side). Here's a code sample:
@@ -79,7 +79,7 @@ Now a nested list:
         balance wooden spoon precariously on pot handle
         wait 10 minutes
         goto first step (or shut off burner when done)
-        # MBSD{oH8XyPyfTmF9gjhwz92@Y2sB2u\*N&TSMn}
+        # MBSD{oH8XyPyfTmF9gjhwz92Y2sB2uNTSMn}
 
     Do not bump wooden spoon or it will fall.
 
@@ -146,7 +146,7 @@ Here's a "line block":
 | Line one
 | Line too
 | Line tree
-| MBSD{CNCoGKUv4StvJUeewSjKw!MdkJkpWEZo3Tc}
+| MBSD{CNCoGKUv4StvJUeewSjKwMdkJkpWEZo3Tc}
 
 and images can be specified like so:
 
